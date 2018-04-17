@@ -1,0 +1,81 @@
+#logo{
+  background-image:url("1.jpg");
+}
+.bk{
+  background-color: orange;
+}
+h2{
+  text-align: center;
+  color:white;
+}
+#bb{
+  background-image: url("breakfast.jpg");
+  height: 170px;
+color :white;
+}
+#cc
+{
+    background-image: url("lunch.jpg");
+    color:white;
+}
+#dd
+{
+    background-image: url("dinner.jpg");
+    color:white;
+
+}
+.table{
+  overflow:hidden;
+  border:1px solid #ccc;
+  background-color: #f1f1f1;
+
+}
+.tab button
+{
+  background-color: inherit;
+  float:left;
+  border:none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition:0.3s;
+
+}
+.tab button:hover{
+  background-color: #ddd;
+}
+.tabcontent
+{
+  display:none;
+  padding: 6px 12px;
+  border:1px solid #ccc;
+  border-top:none;
+}
+.tab button.active{
+  background-color: #ccc;
+}
+.btn{
+  color:red;
+}
+tr.1{
+  background-color: grey ;
+
+}
+tr.2{
+  background-color: #fd7e14;
+}
+#ff
+{
+  background-image:url("2.jpg" );
+  background-size: cover;
+  height:200px;
+color:white;
+}
+#footer{
+  background-color:#fd7e14;
+
+}
+#fooditems{
+  background-image: url("dinner.jpg.jpg");
+  background-size: cover;
+}
