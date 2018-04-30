@@ -1,0 +1,196 @@
+#slider
+{
+background-image:url("logobg.jpg");
+background-size:cover;
+height:500px;
+
+
+}
+#foodbag h2
+{
+	display:inline;
+	text-decoration:underline;
+	cursor:pointer;
+}
+#foodbag
+{
+	background-image:url("foodsBg.jpg");
+	background-size:cover;
+	height:250px;
+	
+}
+h2
+{
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	color:white;
+	text-align:center;
+}
+#s
+{
+	background-color:#ccc;
+}
+#a,#b,#c, #d
+{
+	text-align:center;
+	padding:50px;
+	height:200px;
+	color:white;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px lightgray;
+
+	
+}
+#aa, #bb, #b, #a, #c, h4:hover
+{
+background-color:#ccc;
+	cursor:pointer;
+}
+#gg
+{
+	padding:10px;
+}
+
+#cc, #dd
+{
+	font-family: 'Open Sans', sans-serif;
+	padding:10px;
+}
+#cc , #dd h3
+{
+	text-align:center;
+	padding-top:20px;
+}
+.box
+{
+	background-color:lightgray;
+}
+/*style the tab*/
+.tab{
+	overflow:hidden;
+	border:1px solid #ccc;
+	background-color:#f1f1f1;
+}
+/*style the buttons that are used to open the tab content*/
+.tab button
+{
+	background-color:inherit;
+	float:left;
+	border:none;
+	cursor:pointer;
+	padding:14px 16px;
+	transition:0.3s;
+}
+
+/*change the background color of buttons on hover*/
+
+.tab button:hover
+{
+	background-color:#ddd;
+}
+.tab button.active
+{
+	background-color:#ccc;
+}
+/*style the tab content*/
+.tabcontent 
+{
+	display:none;
+	padding:6px 12px;
+	border:1px solid #ccc;
+	border-top:none;
+}
+
+
+	
+img.a
+{
+	background-position:center;
+	float:relative;
+}
+#ff
+{
+	background-image:url("bg.jpg");
+	background-size:cover;
+	height:200px;
+	color:white;
+	padding:10px;
+	
+}
+#flogo
+{
+	padding-top:20px;
+}
+#sub{
+	margin-right:-4px;
+	border:none;
+	width:200px;
+	height:50px;
+	border-radius:5px;
+}
+
+	
+form input
+{
+	margin-right:-4px;
+	border:none;
+	width:300px;
+	height:50px;
+	border-radius:5px;
+}
+
+form input[type="email"]
+{
+	background-color:lightgrey;
+	padding:20px;
+	
+}
+form{
+	width:100%;
+	height:50px;
+	padding:50px;
+
+}
+#sub{
+	height:50px;
+	background-color:#fd7e14;
+	color:white;
+	padding-left:10px;
+}
+#foot
+{
+	background-color:#fd7e14;
+	color:white;
+}
+#ee
+{
+	padding:50px;
+}
+
+#a
+{
+	background-image:url("breakfast.jpg");
+}
+#b
+{
+	background-image:url("lunch.jpg");
+}
+#c
+{
+	background-image:url("dinner.jpg");
+}
+h4
+{
+	text-align:center;
+}
+#aa
+{
+	background-color:gray;
+}
+#bb
+{
+	background-color:#fd7e14;
+}
+#ff h3
+{
+	padding-top:20px;
+}
+
